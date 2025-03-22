@@ -4,6 +4,7 @@ import Layout from '@/components/Layout';
 import Hero from '@/components/Hero';
 import FlashcardSection from '@/components/FlashcardSection';
 import QuizSection from '@/components/QuizSection';
+import { Button } from '@/components/ui/button';
 
 const Index: React.FC = () => {
   return (
